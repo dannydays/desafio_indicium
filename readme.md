@@ -35,7 +35,7 @@ Certifique-se de ter o Python instalado em sua máquina. As bibliotecas necessá
    ```
 6. Execute o Jupyter Notebook para visualizar o processo completo:
    ```bash
-   python -m notebook .\Desafio-Tecnico-Data-Science.ipynb
+   jupyter notebook .\LH_CD_DANIELDIASJANOVICCI.ipynb
    ```
 
 ## Relatórios
