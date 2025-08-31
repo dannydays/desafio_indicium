@@ -4,7 +4,7 @@
 Este projeto realiza uma análise exploratória de dados (EDA) e modelagem preditiva em um conjunto de dados de filmes. O objetivo principal é prever a nota do IMDb com base em diversas características dos filmes, como gênero, elenco, diretor, entre outros.
 
 ## Estrutura do Projeto
-- **Desafio-Tecnico-Data-Science.ipynb**: Notebook contendo todo o processo de análise, limpeza, engenharia de variáveis e modelagem.
+- **LH_CD_DANIELDIASJANOVICCI.ipynb**: Notebook contendo todo o processo de análise, limpeza, engenharia de variáveis e modelagem.
 - **modelo_imdb_final.pkl**: Arquivo contendo o modelo final treinado e salvo.
 - **requirements.txt**: Lista de dependências necessárias para executar o projeto.
 - **input/desafio_indicium_imdb.csv**: Conjunto de dados utilizado para a análise.
