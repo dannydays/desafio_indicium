@@ -39,7 +39,7 @@ Certifique-se de ter o Python instalado em sua máquina. As bibliotecas necessá
    ```
 
 ## Relatórios
-Os relatórios de análise e EDA estão disponíveis no notebook `Desafio-Tecnico-Data-Science.ipynb`. Eles incluem:
+Os relatórios de análise e EDA estão disponíveis no notebook `LH_CD_DANIELDIASJANOVICCI.ipynb`. Eles incluem:
 - Análise exploratória de dados (EDA)
 - Gráficos e insights
 - Modelagem preditiva
